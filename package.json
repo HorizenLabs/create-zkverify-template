@@ -1,0 +1,11 @@
+{
+  "name": "@zkverify/create-zkverify-template",
+  "version": "0.1.0",
+  "author": "Horizen Labs <info@horizenlabs.io>",
+  "license": "ISC",
+  "description": "CLI to create a new zkverify NextJS starter project",
+  "bin": {
+    "create-zkverify-template": "./bin/create-zkverify-template.js"
+  },
+  "dependencies": {}
+}
